@@ -1,0 +1,18 @@
+C:\Users\Mostak\Desktop\Dot Net\2. Emo's Document\IPCalculator\IPCalculator\bin\Debug\IPCalculator.exe.config
+C:\Users\Mostak\Desktop\Dot Net\2. Emo's Document\IPCalculator\IPCalculator\bin\Debug\IPCalculator.exe
+C:\Users\Mostak\Desktop\Dot Net\2. Emo's Document\IPCalculator\IPCalculator\bin\Debug\IPCalculator.pdb
+C:\Users\Mostak\Desktop\Dot Net\2. Emo's Document\IPCalculator\IPCalculator\obj\Debug\IPCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Mostak\Desktop\Dot Net\2. Emo's Document\IPCalculator\IPCalculator\obj\Debug\IPCalculator.Form1.resources
+C:\Users\Mostak\Desktop\Dot Net\2. Emo's Document\IPCalculator\IPCalculator\obj\Debug\IPCalculator.Properties.Resources.resources
+C:\Users\Mostak\Desktop\Dot Net\2. Emo's Document\IPCalculator\IPCalculator\obj\Debug\IPCalculator.csproj.GenerateResource.Cache
+C:\Users\Mostak\Desktop\Dot Net\2. Emo's Document\IPCalculator\IPCalculator\obj\Debug\IPCalculator.exe
+C:\Users\Mostak\Desktop\Dot Net\2. Emo's Document\IPCalculator\IPCalculator\obj\Debug\IPCalculator.pdb
+C:\Users\Mostak\Desktop\IPCalculator\IPCalculator\bin\Debug\IPCalculator.exe.config
+C:\Users\Mostak\Desktop\IPCalculator\IPCalculator\obj\Debug\IPCalculator.exe
+C:\Users\Mostak\Desktop\IPCalculator\IPCalculator\obj\Debug\IPCalculator.pdb
+C:\Users\Mostak\Desktop\IPCalculator\IPCalculator\bin\Debug\IPCalculator.exe
+C:\Users\Mostak\Desktop\IPCalculator\IPCalculator\bin\Debug\IPCalculator.pdb
+C:\Users\Mostak\Desktop\IPCalculator\IPCalculator\obj\Debug\IPCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Mostak\Desktop\IPCalculator\IPCalculator\obj\Debug\IPCalculator.Form1.resources
+C:\Users\Mostak\Desktop\IPCalculator\IPCalculator\obj\Debug\IPCalculator.Properties.Resources.resources
+C:\Users\Mostak\Desktop\IPCalculator\IPCalculator\obj\Debug\IPCalculator.csproj.GenerateResource.Cache
